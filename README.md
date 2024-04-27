@@ -84,7 +84,8 @@ echo Backup and deletion completed successfully!
 
 
 ## OUTPUT
-![Uploading image.png…]()
+![image](https://github.com/Priyanghaofficial/Windows-basic-commands-batchscript/assets/147121154/937daaff-887f-400b-a7f6-81ed1783397c)
+
 
 
 
